@@ -1,3 +1,3 @@
-/** this is a desured file package com.info
+/** this is the package name
 */
 package com.example;
